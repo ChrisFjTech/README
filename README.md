@@ -8,4 +8,4 @@ Jeg jobber med IT-support og systemadministrasjon, og har erfaring fra både off
 
 Ta gjerne kontakt hvis du vil samarbeide eller diskutere tekniske løsninger!
 
-![ChrisFjTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisFjTech&show_icons=true&theme=default)
+![ChrisFjTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisFjTech&show_icons=true&theme=dark)
